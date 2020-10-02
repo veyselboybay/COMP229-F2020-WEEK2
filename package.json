@@ -1,6 +1,6 @@
 {
-  "name": "week3",
-  "version": "0.0.0",
+  "name": "comp229-f2020",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node ./server.js"
@@ -17,5 +17,18 @@
     "jquery": "^3.5.1",
     "morgan": "~1.9.1",
     "popper.js": "^1.16.1"
-  }
+  },
+  "description": "index.js",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veyselboybay/COMP229-F2020-WEEK2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veyselboybay/COMP229-F2020-WEEK2/issues"
+  },
+  "homepage": "https://github.com/veyselboybay/COMP229-F2020-WEEK2#readme"
 }
